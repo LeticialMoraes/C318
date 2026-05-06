@@ -10,3 +10,4 @@ O repositório está organizado por práticas e exercícios desenvolvidos ao lon
 
 - **Atividade 02** — análise exploratória de dados (EDA): `C318_2026_1_Atividade_02.ipynb`
 - **Atividade 03** — pré-processamento de dados: `C318_2026_1_Atividade_03.ipynb`
+- **Atividade 04** — regressão: `C318_2026_1_Atividade_03.ipynb`
